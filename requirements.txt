@@ -1,0 +1,57 @@
+# Core AI & LLM
+langchain
+langchain-community
+langchain-core
+
+# Mistral AI
+mistralai
+
+# NVIDIA AI Endpoints
+langchain-nvidia-ai-endpoints
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+huggingface-hub
+
+# Document Loaders
+unstructured
+pypdf
+pdfplumber
+python-docx
+
+# Text Splitting
+tiktoken
+
+# API Development
+fastapi
+uvicorn
+
+# Environment Variables
+python-dotenv
+
+# Data Processing
+pandas
+numpy
+
+# HTTP Requests
+requests
+httpx
+
+# Logging & Monitoring
+loguru
+
+# Tokenization
+transformers
+
+# Optional UI
+streamlit
+
+# Optional Evaluation
+ragas
+datasets
+
+# Utilities
+tqdm
